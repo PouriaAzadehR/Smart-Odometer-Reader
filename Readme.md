@@ -9,6 +9,8 @@ This project implements a two-step process to detect and extract odometer number
 This solution was designed to automate the insurance process.
 . It utilizes YOLOv8 Nano for its efficiency in environments with limited computational resources, and EasyOCR for its high accuracy in general OCR tasks.
 
+Annotated Odometer Dataset: [Car Odometers](https://drive.google.com/drive/folders/1GH88J6Jf7KsAvqnwlPEjvGVHpedEmWFA?usp=sharing) 
+
 ## Key Features
 
 - **Object Detection**: Uses YOLOv8 Nano to locate the odometer in an image.
