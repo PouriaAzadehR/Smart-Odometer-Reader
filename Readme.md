@@ -1,4 +1,4 @@
-Odometer number detection and extraction project is for automating insurance process.
+
 ---
 
 # Odometer Number Detection and Extraction
@@ -6,7 +6,8 @@ Odometer number detection and extraction project is for automating insurance pro
 This project implements a two-step process to detect and extract odometer numbers from images using YOLOv8 Nano for object detection and EasyOCR for text recognition. 
 ## Project Overview
 
-This solution was designed to accurately identify and read odometer numbers from various vehicle images. It utilizes YOLOv8 Nano for its efficiency in environments with limited computational resources, and EasyOCR for its high accuracy in general OCR tasks.
+This solution was designed to automate the insurance process.
+. It utilizes YOLOv8 Nano for its efficiency in environments with limited computational resources, and EasyOCR for its high accuracy in general OCR tasks.
 
 ## Key Features
 
@@ -84,8 +85,9 @@ Edit the `config.json` file to adjust the input and output paths, and modify the
 
 ## YOLO Results
 ![image](https://github.com/PouriaAzadehR/Smart-Odometer-Reader/assets/93463377/6ef79637-cdda-4ef3-8dc7-c8b9850ab70a)
-![image](https://github.com/PouriaAzadehR/Smart-Odometer-Reader/assets/93463377/14576d8a-5fab-4195-89d8-2c6de584adf8)
 ![image](https://github.com/PouriaAzadehR/Smart-Odometer-Reader/assets/93463377/32449d57-178d-41d7-ac2c-8c5363899e28)
+![image](https://github.com/PouriaAzadehR/Smart-Odometer-Reader/assets/93463377/14576d8a-5fab-4195-89d8-2c6de584adf8)
+
 
 
 
